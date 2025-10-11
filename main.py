@@ -1,5 +1,5 @@
 import random
-
+print('добро пожаловать')
 number = random.randint(1, 100)
 
 user_number = 0

@@ -1,5 +1,7 @@
 import random
 
+print("Добро пожаловать в нашу игру!!!")
+
 number = random.randint(1, 100)
 
 user_number = 0
